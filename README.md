@@ -1,5 +1,5 @@
 <h1>## Hi there 👋 </h1>
-<h2>🔭 I’m currently working on developing my GitHub account</h2>
+<h2>🔭 I’m currently developing my GitHub account</h2>
 
 
 <!--
